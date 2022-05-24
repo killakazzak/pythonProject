@@ -1,0 +1,2 @@
+print("GO GO GO")
+
